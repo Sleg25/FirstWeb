@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+
+body{
+	background-color: #E9E2D0;
+	
+}
+legend{
+	font-size:1.5em;	
+}
+
+fieldset{
+	
+	width: 50%;
+	margin: auto;
+	background-color: white;
+	border: 5px inset #ff8000;
+	border-radius : 1px;
+}
+
+table{
+	margin: auto;
+	width: 100%;
+	background-color:#e1e1e1;
+	border: 1px solid black;
+	text-align: center;
+}
+
+div{
+	margin: auto;
+	font-size: 2em;
+}
